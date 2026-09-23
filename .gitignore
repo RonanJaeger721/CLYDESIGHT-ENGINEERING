@@ -2,3 +2,5 @@ design-system/
 desktop-full.png
 
 .vercel
+design-system/
+*.png
