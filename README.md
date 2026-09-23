@@ -1,5 +1,5 @@
-# Telematic Trading Investment
+# Clydesight Engineering
 
-Production website for Telematic Trading Investment, a Zimbabwean manufacturer and supplier of premium rubberized roof sealer paint.
+Static website for Clydesight Engineering, built from supplied company information and project photography.
 
-The site is a lightweight static build with responsive imagery, accessible motion, product-specific WhatsApp enquiries, SEO metadata, structured data, sitemap and robots directives.
+Open `index.html` directly or serve the folder with any static web server.
