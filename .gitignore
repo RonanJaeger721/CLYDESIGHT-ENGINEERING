@@ -1,6 +1,4 @@
-design-system/
-desktop-full.png
-
-.vercel
+.vercel/
+.env*
 design-system/
 *.png
